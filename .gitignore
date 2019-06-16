@@ -3,3 +3,8 @@
 ################################################################################
 
 *.user
+*.filters
+*.vcxproj
+/.vs/MemoryScanner/v16
+/.vs
+/InsomniaScanning.sln
